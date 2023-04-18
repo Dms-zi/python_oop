@@ -1,0 +1,14 @@
+[project]
+name = "ecommerce"
+version = "0.0.1"
+readme = "README.md"
+requires-python = ">=3.9"
+
+[[project.authors]]
+email = "em309@syuin.ac.kr"
+
+[tool.black]
+line-length = 100
+
+[tool.tox] 
+legacy_tox_ini = ""
