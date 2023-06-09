@@ -1,0 +1,9 @@
+[project]
+name = "iris-classifier"
+version = "0.0.1"
+description = ""
+readme = "README.md"
+
+[[project.authors]]
+email = "em309@naver.com"
+name = "Eunji Lee"
